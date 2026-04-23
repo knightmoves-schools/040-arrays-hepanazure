@@ -1,2 +1,2 @@
-let things = [Chocolate, Vanilla, Twist];
-document.getElementById("result").innerHTML= iceCreamFlavors
+let iceCreamFlavors = [chocolate, vanilla, twist];
+document.getElementById("result").innerHTML= iceCreamFlavors;
